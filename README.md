@@ -1,20 +1,67 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🤖 AI Mentor
 
-# Run and deploy your AI Studio app
+AI Mentor is a web-based study assistant designed to guide beginners and professionals in their IT learning journey.  
+It provides resources, tutorials, and interactive tools to make IT learning simple and effective.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1VYRAtpJsASnHUIW0bM1Jwg4vUPASc66h
+## ✨ Features
+- 📚 Collection of IT learning resources  
+- 🧠 AI-powered study assistant  
+- 🎯 Personalized learning recommendations  
+- 🔍 Easy-to-use interface with clean design  
+- ⚡ Built with TypeScript + React + Vite  
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🚀 Live Demo
+👉 [Click here to try AI Mentor](#)  
+(*Deploy this project to [Vercel](https://vercel.com) or [Netlify](https://netlify.com) and put your link here.*)
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📂 Project Structure
+AI-Mentor/
+│── components/ # UI components
+│── data/ # Static data and resources
+│── services/ # API and utility functions
+│── App.tsx # Main App entry
+│── index.tsx # React DOM entry point
+│── constants.ts # Constants & configs
+│── vite.config.ts # Vite configuration
+
+---
+
+## 🛠️ Installation & Setup
+Follow these steps to run the project locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/AI-Mentor.git
+
+# 2. Navigate into the project directory
+cd AI-Mentor
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+---
+
+## 🛠️ Installation & Setup
+Follow these steps to run the project locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/AI-Mentor.git
+
+# 2. Navigate into the project directory
+cd AI-Mentor
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
